@@ -1,3 +1,5 @@
+2020-12-23
+
 # Bosch Production Line Performance
 
 - 캐글 : https://www.kaggle.com/c/bosch-production-line-performance
